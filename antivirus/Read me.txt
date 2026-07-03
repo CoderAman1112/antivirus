@@ -1,3 +1,0 @@
-make sure to run it in a code compiler.
-
-or you may face file not found errors
